@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GaleShapleyApp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GaleShapleyApp/static/js/main.82f2f3a9.chunk.js",
+    "main.js.map": "/GaleShapleyApp/static/js/main.82f2f3a9.chunk.js.map",
+    "runtime-main.js": "/GaleShapleyApp/static/js/runtime-main.3975e05c.js",
+    "runtime-main.js.map": "/GaleShapleyApp/static/js/runtime-main.3975e05c.js.map",
+    "static/css/2.7bff6d96.chunk.css": "/GaleShapleyApp/static/css/2.7bff6d96.chunk.css",
+    "static/js/2.2f86381b.chunk.js": "/GaleShapleyApp/static/js/2.2f86381b.chunk.js",
+    "static/js/2.2f86381b.chunk.js.map": "/GaleShapleyApp/static/js/2.2f86381b.chunk.js.map",
+    "index.html": "/GaleShapleyApp/index.html",
+    "precache-manifest.6cc485474c7ac1eb928563293c4b2819.js": "/GaleShapleyApp/precache-manifest.6cc485474c7ac1eb928563293c4b2819.js",
+    "service-worker.js": "/GaleShapleyApp/service-worker.js",
+    "static/css/2.7bff6d96.chunk.css.map": "/GaleShapleyApp/static/css/2.7bff6d96.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/GaleShapleyApp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2f86381b.chunk.js.LICENSE.txt": "/GaleShapleyApp/static/js/2.2f86381b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/GaleShapleyApp/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3975e05c.js",
+    "static/css/2.7bff6d96.chunk.css",
+    "static/js/2.2f86381b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.82f2f3a9.chunk.js"
+  ]
+}
